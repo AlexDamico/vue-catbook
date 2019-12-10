@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.21",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "mem": "^5.1.1",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.5.2",

@@ -12,6 +12,7 @@
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
     "mem": "^5.1.1",
+    "minimist": "^1.2.5",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.5.2",
     "serialize-javascript": "^2.1.2",

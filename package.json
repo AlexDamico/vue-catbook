@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.21",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
     "mem": "^5.1.1",
     "minimist": "^1.2.5",
